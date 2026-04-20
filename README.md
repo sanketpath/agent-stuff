@@ -10,3 +10,4 @@ A small dump of custom agent assets.
 ## Skills
 
 - `skills/paper-deck/SKILL.md` — SOP for building presentation slide decks and wireframes in Paper.
+- `skills/voice-journal-cleanup/SKILL.md` — cleans rough voice transcripts into polished markdown with first-mention entity linking.
